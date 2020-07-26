@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Matthew Henry"
-  avatar           : "./images/me.jpeg"
+  avatar           : "me.jpeg"
   bio              : "Postdoctoral Research Fellow working on idealized climate modelling at the University of Exeter."
   location         : "Exeter, UK"
   employer         :
