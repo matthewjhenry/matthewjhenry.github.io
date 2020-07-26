@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "[Research] What causes the arctic amplification of surface warming?"
+title: '(Research) What causes the arctic amplification of surface warming?'
 date: 2019-02-25
-use_math: true
+permalink: /posts/2019/02/AA-Research/
 ---
 
 <p>The Earth's surface is warming 2-3x faster in the Arctic than the global average. There is still debate on which mechanism is dominant in generating Arctic amplification of surface air warming.</p>

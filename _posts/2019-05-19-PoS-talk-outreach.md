@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "[Outreach] Pint of Science talk : Understanding the Arctic amplification of global warming."
+title: 'Pint of Science talk : Understanding the Arctic amplification of global warming.'
 date: 2019-05-19
-use_math: true
+permalink: /posts/2019/05/PoS-Talk/
 ---
 
 I gave a <a href='https://pintofscience.com/'>Pint of Science</a> presentation on the 21st of May 2019 in Montreal. [This is written moreless as it was said, forgive the informal tone.]

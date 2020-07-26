@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "[Outreach] What causes the arctic amplification of surface warming?"
+title: '(Outreach) What causes the arctic amplification of surface warming?'
 date: 2019-03-02
-use_math: true
+permalink: /posts/2019/03/AA-Outreach/
 ---
 
 <p><i>A <a href='https://matthewjhenry.github.io/notes/2019/02/25/Why-Arctic-Amplification'>research version</a> of this post is available if you are already familiar with the topic.</i></p>

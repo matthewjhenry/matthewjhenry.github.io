@@ -22,16 +22,20 @@ Feel free to reach out if you want to discuss projects (academic, outreach, or o
 
 **Henry, M.**, T.M. Merlis, N.J. Lutsko, and B.J. Rose: Decomposing the Drivers of Polar Amplification with a Single Column Model. [preprint](https://eartharxiv.org/dzmvq)and 20 minute presentation [video](https://www.youtube.com/watch?v=8Q93JCzOlzY).
 
-		<li><b>Henry, M.</b> and T.M. Merlis: Lapse rate changes dominate residual polar warming in solar radiation management experiments. Geophysical Research Letters, 2020. doi:10.1029/2020GL087929. <a href='https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087929'>Paper</a> and <a href='https://www.youtube.com/watch?v=NSN_QId29JI'>AOFD talk recording</a>.
-		<li><b>Henry, M.</b> and T.M. Merlis: The role of the nonlinearity of the Stefan-Boltzmann law on the structure of radiatively forced temperature change. Journal of Climate, 2018. doi:10.1175/JCLI-D-17-0603.1. <a href='https://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0603.1'>Paper</a> and <a href='http://meteo.mcgill.ca/~mhenry/files/poster_henry_0617.pdf'>poster</a>.
-		<li>Merlis, T.M. and <b>M. Henry</b>: Simple estimates of polar amplification in moist diffusive energy balance models. Journal of Climate, 2018. doi:10.1175/JCLI-D-17-0578.1. <a href='https://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0578.1'>Paper</a>.	
-    </ul> 
+**Henry, M.** and T.M. Merlis: Lapse rate changes dominate residual polar warming in solar radiation management experiments. Geophysical Research Letters, 2020. doi:10.1029/2020GL087929. <a href='https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087929'>Paper</a> and <a href='https://www.youtube.com/watch?v=NSN_QId29JI'>AOFD talk recording</a>.
 
-<br/>
+**Henry, M.** and T.M. Merlis: The role of the nonlinearity of the Stefan-Boltzmann law on the structure of radiatively forced temperature change. Journal of Climate, 2018. doi:10.1175/JCLI-D-17-0603.1. <a href='https://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0603.1'>Paper</a> and <a href='http://meteo.mcgill.ca/~mhenry/files/poster_henry_0617.pdf'>poster</a>.
 
-<p class="ex"><font size=2><b>News:</b></p>
-      <p> 07/07/2020 - I was invited to give a presentation on my PhD work as part of the Scripps journal club (online!). Recorded <a href='https://www.youtube.com/watch?v=8Q93JCzOlzY'>here</a> and was followed by an interesting conversation. Thank you for the invite!
-      <p> 06/29/2020 - I gave a poster presentation for the <a href="https://sites.google.com/cam.ac.uk/climatedynamics/home">6th UK National Climate Dynamics Workshop</a> on some very preliminary results on how the combination of low surface heat capacity of land and the Stefan-Boltzmann nonlinearity (again!) leads to increased warming in winter and decreased warming in summer over high latitude land relative to high latitude ocean.
-      <p> 03/01/2020 - I joined the research group in Exeter with <a href="http://empslocal.ex.ac.uk/people/staff/gv219/">Prof. Goeff Vallis</a>. </p>
-      <p> 02/15/2020 - I finished a long walk from Saint-Jean-Pied-de-Port to Compostelle along the Camino Frances (769 km)!</a> </p>
-      <p> 12/06/2019 - I defended my PhD! My thesis entitled "Polar Amplification: what does the Temperature Feedback have to do with it?" is available <a href="https://escholarship.mcgill.ca/concern/theses/ww72bh08q">here</a>. </p>
+Merlis, T.M. and **M. Henry**: Simple estimates of polar amplification in moist diffusive energy balance models. Journal of Climate, 2018. doi:10.1175/JCLI-D-17-0578.1. <a href='https://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0578.1'>Paper</a>.	
+
+# News
+
+07/07/2020 - I was invited to give a presentation on my PhD work as part of the Scripps journal club (online!). Recorded <a href='https://www.youtube.com/watch?v=8Q93JCzOlzY'>here</a> and was followed by an interesting conversation. Thank you for the invite!
+
+06/29/2020 - I gave a poster presentation for the <a href="https://sites.google.com/cam.ac.uk/climatedynamics/home">6th UK National Climate Dynamics Workshop</a> on some very preliminary results on how the combination of low surface heat capacity of land and the Stefan-Boltzmann nonlinearity (again!) leads to increased warming in winter and decreased warming in summer over high latitude land relative to high latitude ocean.
+
+03/01/2020 - I joined the research group in Exeter with <a href="http://empslocal.ex.ac.uk/people/staff/gv219/">Prof. Goeff Vallis</a>.
+
+02/15/2020 - I finished a long walk from Saint-Jean-Pied-de-Port to Compostelle along the Camino Frances (769 km)!</a>
+
+12/06/2019 - I defended my PhD! My thesis entitled "Polar Amplification: what does the Temperature Feedback have to do with it?" is available <a href="https://escholarship.mcgill.ca/concern/theses/ww72bh08q">here</a>.

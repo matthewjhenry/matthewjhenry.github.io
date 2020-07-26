@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "A few points about solar radiation management."
+title: 'A few points about solar radiation management.'
 date: 2020-05-23
-use_math: true
+permalink: /posts/2020/05/SRM-Critique/
 ---
 
 Critiques of solar radiation management often make erroneous assumptions as to how scientists think about solar radiation management and how it fits with emission reductions. My view on solar radiation management was very similar to what is shown in this [video](https://www.youtube.com/watch?v=wgyhnFHm1uE) until I did more research on the topic, so I would like to share a few points.

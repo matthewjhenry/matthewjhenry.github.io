@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "Fun with FaIR: How many years of temporarily reduced emissions (such as a pandemic!) does it take to make a dent in the 2100 temperature projection?"
+title: 'Fun with FaIR: How many years of temporarily reduced emissions (such as a pandemic!) does it take to make a dent in the 2100 temperature projection?'
 date: 2020-04-30
-use_math: true
+permalink: /posts/2020/04/Fun-With-FaiR/
 ---
 
 I played with <a href='https://fair.readthedocs.io/'>FaIR</a> $($Finite Amplitude Impulse Response simple climate model$)$ to look at the impact of the temporary reduction in emissions on global mean surface temperature change. The projected decrease in greenhouse gas emissions as a result of the pandemic vary a lot, but I just wanted to play with this model and have a sense of orders of magnitude.
