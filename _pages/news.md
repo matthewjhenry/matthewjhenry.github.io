@@ -5,8 +5,6 @@ permalink: /news/
 author_profile: true
 ---
 
-# News
-
 07/07/2020 - I was invited to give a presentation on my PhD work as part of the Scripps journal club (online!). Recorded <a href='https://www.youtube.com/watch?v=8Q93JCzOlzY'>here</a> and was followed by an interesting conversation. Thank you for the invite!
 
 06/29/2020 - I gave a poster presentation for the <a href="https://sites.google.com/cam.ac.uk/climatedynamics/home">6th UK National Climate Dynamics Workshop</a> on some very preliminary results on how the combination of low surface heat capacity of land and the Stefan-Boltzmann nonlinearity (again!) leads to increased warming in winter and decreased warming in summer over high latitude land relative to high latitude ocean.
