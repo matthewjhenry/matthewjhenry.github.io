@@ -14,7 +14,7 @@ The main theme of my research is using idealized climate models to have a better
 
 I am also broadly interested in solar geoengineering as a means to give us more time to transition to a carbon-neutral economy.
 
-I enjoy doing outreach. You can find a write up of my Pint of Science talk [here](https://matthewjhenry.github.io/notes/2019/05/19/PoS-talk-outreach) and my tweets from @EnDirectDuLabo which encourages scientists to do outreach (in French) [here](https://twitter.com/search?q=from%3AEnDirectDuLabo%20since%3A2020-04-13%20until%3A2020-04-19&src=typed_query).
+I enjoy doing outreach. You can find a write up of my Pint of Science talk [here](https://matthewjhenry.github.io/posts/2019/05/PoS-Talk/) and my tweets from @EnDirectDuLabo which encourages scientists to do outreach (in French) [here](https://twitter.com/search?q=from%3AEnDirectDuLabo%20since%3A2020-04-13%20until%3A2020-04-19&src=typed_query).
 
 Feel free to reach out if you want to discuss projects (academic, outreach, or other).
 
@@ -22,7 +22,7 @@ Feel free to reach out if you want to discuss projects (academic, outreach, or o
 
 # Manuscripts
 
-**Henry, M.**, T.M. Merlis, N.J. Lutsko, and B.J. Rose: Decomposing the Drivers of Polar Amplification with a Single Column Model. [preprint](https://eartharxiv.org/dzmvq) ßand 20 minute presentation [video](https://www.youtube.com/watch?v=8Q93JCzOlzY).
+**Henry, M.**, T.M. Merlis, N.J. Lutsko, and B.J. Rose: Decomposing the Drivers of Polar Amplification with a Single Column Model. [preprint](https://eartharxiv.org/dzmvq) and 20 minute presentation [video](https://www.youtube.com/watch?v=8Q93JCzOlzY).
 
 **Henry, M.** and T.M. Merlis: Lapse rate changes dominate residual polar warming in solar radiation management experiments. Geophysical Research Letters, 2020. doi:10.1029/2020GL087929. <a href='https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087929'>Paper</a> and <a href='https://www.youtube.com/watch?v=NSN_QId29JI'>AOFD talk recording</a>.
 
