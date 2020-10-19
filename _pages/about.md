@@ -19,8 +19,9 @@ I enjoy doing outreach. You can find a write up of my Pint of Science talk [here
 Feel free to reach out if you want to discuss projects (academic, outreach, or other).
 
 
+### Manuscripts
 
-# Manuscripts
+**Henry, M.**, G.K. Vallis: High latitude land warms more in winter in idealized GCM with no sea ice or clouds. In prep...
 
 **Henry, M.**, T.M. Merlis, N.J. Lutsko, and B.J. Rose: Decomposing the Drivers of Polar Amplification with a Single Column Model. [preprint](https://eartharxiv.org/dzmvq) and 20 minute presentation [video](https://www.youtube.com/watch?v=8Q93JCzOlzY).
 
@@ -29,3 +30,7 @@ Feel free to reach out if you want to discuss projects (academic, outreach, or o
 **Henry, M.** and T.M. Merlis: The role of the nonlinearity of the Stefan-Boltzmann law on the structure of radiatively forced temperature change. Journal of Climate, 2018. doi:10.1175/JCLI-D-17-0603.1. <a href='https://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0603.1'>Paper</a> and <a href='http://meteo.mcgill.ca/~mhenry/files/poster_henry_0617.pdf'>poster</a>.
 
 Merlis, T.M. and **M. Henry**: Simple estimates of polar amplification in moist diffusive energy balance models. Journal of Climate, 2018. doi:10.1175/JCLI-D-17-0578.1. <a href='https://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0578.1'>Paper</a>.	
+
+### Other
+
+I have put together some twitter threads in English and French on [solar geoengineering](https://twitter.com/mattjohenry/status/1208079869013307393), [CO2 lifetime in the atmosphere](https://twitter.com/mattjohenry/status/1298992761018802176), [the future of the human climate niche](https://twitter.com/mattjohenry/status/1258060124817678336), [my PhD thesis](https://twitter.com/EnDirectDuLabo/status/1249624495641571331), [my PostDoc work](https://twitter.com/EnDirectDuLabo/status/1250044374374907909), [brute estimates of CO2 concentration reductions from lockdown-induced reductions in CO2 emissions using FaIR](https://twitter.com/mattjohenry/status/1248669347209453568), and [refuting a Valeurs Actuelles video spreading falsehoods on climate change](https://twitter.com/mattjohenry/status/1154849664635736064).
