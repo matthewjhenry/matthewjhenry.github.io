@@ -21,7 +21,7 @@ Feel free to reach out if you want to discuss projects (academic, outreach, or o
 
 ### Manuscripts
 
-**Henry, M.**, G.K. Vallis: High latitude land warms more in winter in idealized GCM with no sea ice or clouds. In prep...
+**Henry, M.**, G.K. Vallis: Seasonality of polar warming in very high CO2 climates. In prep...
 
 **Henry, M.**, T.M. Merlis, N.J. Lutsko, and B.J. Rose: Decomposing the Drivers of Polar Amplification with a Single Column Model. [preprint](https://eartharxiv.org/dzmvq) and 20 minute presentation [video](https://www.youtube.com/watch?v=8Q93JCzOlzY).
 
