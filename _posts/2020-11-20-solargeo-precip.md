@@ -15,19 +15,19 @@ In ["Designing a radiative antidote to CO2"](https://www.essoar.org/pdfjs/10.100
 They run radiative-convective simulations with the cloud-resolving model DAM (Romps, 2018). Their figure 4 below shows the surface temperature and precipitation change in their three main experiments. In red (4xCO2), they just quadruple CO2 concentrations, the surface temperature increases by 6.89K and precipitation increases by 18.4%. In blue (4xCO2 + USRM), they quadruple CO2 and apply a spectrally uniform reduction in insolation to keep the surface temperature constant. However, they end up with a 2.2% reduction in precipitation, which is consistent with the theory and comprehensive climate model simulations. In green (4xCO2 + SSRM), they quadruple CO2 and spectrally tune the reduction in insolation, such that the surface temperature **and** precipitation stay constant.
 
 <br/>
-<div style="text-align:center;valign:center"><img src="https://matthewjhenry.github.io/images/seeley_fig4.png" alt="" style="display: block; width: 800px; height: auto;"></div>
+<div style="text-align:center;valign:center"><img src="https://matthewjhenry.github.io/images/seeley_fig4.png" alt="" style="display: block; width: 500px; height: auto;"></div>
 <br/>
 
 ## Tropospheric forcing leads to precipitation change
 
-In an atmosphere in radiative-convective equilibrium, radiative cooling is balanced by the latent heat released in precipitating clouds. As shown in their equation 2, $\Delta P = -\alpha_P \Delta Q$, the change in precipitation ($\Delta P$) scales with the change in *tropospheric* radiative cooling. And tropospheric radiative cooling can be decomposed into a part directly affected by external perturbation (direct effect of CO2 for example) and a part that scales linearly with surface temperature change.
+In an atmosphere in radiative-convective equilibrium, radiative cooling is balanced by the latent heat released in precipitating clouds. As shown in their equation 2, $\Delta P = -\alpha_P \Delta Q$, the change in precipitation ($\Delta P$) scales with the change in *tropospheric* radiative cooling ($\Delta Q$) by a factor $\alpha_P$ called the "hydrological sensitivity" parameter. And tropospheric radiative cooling can be decomposed into a part directly affected by external perturbation (direct effect of CO2 for example) and a part that scales linearly with surface temperature change.
 
-In the 4xCO2 case, surface temperature increases, which leads to an increase in tropospheric radiative cooling and hence an increase in precipitation. However, in both SRM experiments, the insolation is reduced such that the surface temperature change is zero, hence the only change in tropospheric radiative cooling comes from the direct effects of the forcings (CO2 and insolation).
+In the 4xCO2 case, both the CO2 and surface temperature changes lead to an increase in tropospheric radiative cooling and hence an increase in precipitation. However, in both SRM experiments, the insolation is reduced such that the surface temperature change is zero, hence only change in tropospheric radiative cooling only comes from the direct effects of the forcings (CO2 and insolation).
 
 Their figure 2 below shows the vertical profile of radiative forcing on the left and the decomposition into tropopause (TROP), atmospheric (ATM), and surface (SURF) forcings for each case. The tropopause forcing is the sum of the atmospheric and surface forcings, and the net forcing is the sum of the longwave and shortwave forcings. In the 4xCO2 case, the positive longwave forcing from increased CO2 at the tropopause comes from both the surface and atmosphere (approximately half each). The spectrally-uniform (USRM) reduction in insolation induces a negative tropospheric forcing that is proportional to the control shortwave atmospheric absorption, which is small. Hence the net atmospheric forcing is positive, which causes a reduction in precipitation (see equation above). In the spectrally tuned case (SSRM), the wavelengths are chosen such that the shortwave radiation is partially attenuated in the troposphere, which causes a negative forcing in the atmosphere, which balances the positive longwave forcing from CO2. Hence there is no change in precipitation.
 
 <br/>
-<div style="text-align:center;valign:center"><img src="https://matthewjhenry.github.io/images/seeley_fig2.png" alt="" style="display: block; width: 800px; height: auto;"></div>
+<div style="text-align:center;valign:center"><img src="https://matthewjhenry.github.io/images/seeley_fig2.png" alt="" style="display: block; width: 500px; height: auto;"></div>
 <br/> 
 
 ## Use this to constrain changes in precipitation in the G1 GeoMIP experiments?
