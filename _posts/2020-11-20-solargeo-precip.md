@@ -24,7 +24,7 @@ In an atmosphere in radiative-convective equilibrium, radiative cooling is balan
 
 And, tropospheric radiative cooling can be decomposed into a part directly affected by external perturbation (change in CO2 or insolation, noted $F_a$) and a part that scales linearly with surface temperature change ($\Delta T_s$): $\Delta Q = F_a + \frac{\partial Q}{\partial T_s} \Delta T_s$.
 
-Finally, the surface temperature change scales with the tropopause forcing ($F_t$): $\Delta T_s = \alpha_T F_t.
+Finally, the surface temperature change scales with the tropopause forcing ($F_t$): $\Delta T_s = \alpha_T F_t$.
 
 In the 4xCO2 case, both the CO2 and surface temperature changes lead to an increase in tropospheric radiative cooling and hence an increase in precipitation. However, in both SRM experiments, the insolation is reduced such that the surface temperature change is zero, hence only the direct effects of the CO2 and insolation changes affect tropospheric radiative cooling and hence precipitation.
 
