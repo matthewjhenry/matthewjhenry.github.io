@@ -25,11 +25,11 @@ Feel free to reach out if you want to discuss projects (academic, outreach, or o
 
 **Henry, M.**, T.M. Merlis, N.J. Lutsko, and B.J. Rose: Decomposing the Drivers of Polar Amplification with a Single Column Model. Journal of Climate, 2020. https://doi.org/10.1175/JCLI-D-20-0178.1. 20 minute presentation [video](https://www.youtube.com/watch?v=Z3LjvFSqOwo).
 
-**Henry, M.** and T.M. Merlis: Lapse rate changes dominate residual polar warming in solar radiation management experiments. Geophysical Research Letters, 2020. https://doi:10.1029/2020GL087929. <a href='https://www.youtube.com/watch?v=SnsH-4Nca9A'>AOFD talk recording</a>.
+**Henry, M.** and T.M. Merlis: Lapse rate changes dominate residual polar warming in solar radiation management experiments. Geophysical Research Letters, 2020. https://doi.org/10.1029/2020GL087929. <a href='https://www.youtube.com/watch?v=SnsH-4Nca9A'>AOFD talk recording</a>.
 
-**Henry, M.** and T.M. Merlis: The role of the nonlinearity of the Stefan-Boltzmann law on the structure of radiatively forced temperature change. Journal of Climate, 2018. https://doi:10.1175/JCLI-D-17-0603.1. <a href='http://meteo.mcgill.ca/~mhenry/files/poster_henry_0617.pdf'>Poster</a>.
+**Henry, M.** and T.M. Merlis: The role of the nonlinearity of the Stefan-Boltzmann law on the structure of radiatively forced temperature change. Journal of Climate, 2018. https://doi.org/10.1175/JCLI-D-17-0603.1. <a href='http://meteo.mcgill.ca/~mhenry/files/poster_henry_0617.pdf'>Poster</a>.
 
-Merlis, T.M. and **M. Henry**: Simple estimates of polar amplification in moist diffusive energy balance models. Journal of Climate, 2018. https://doi:10.1175/JCLI-D-17-0578.1.
+Merlis, T.M. and **M. Henry**: Simple estimates of polar amplification in moist diffusive energy balance models. Journal of Climate, 2018. https://doi.org/10.1175/JCLI-D-17-0578.1.
 
 ### Other
 
