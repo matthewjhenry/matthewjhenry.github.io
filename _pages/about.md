@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Research Fellow at the University of Exeter, working with Prof. [Goeff Vallis](http://empslocal.ex.ac.uk/people/staff/gv219/). You can view my CV [here](https://matthewjhenry.github.io/CV_Henry.pdf).
+Postdoctoral Research Fellow at the University of Exeter, working with Prof. [Geoff Vallis](http://empslocal.ex.ac.uk/people/staff/gv219/). You can view my CV [here](https://matthewjhenry.github.io/CV_Henry.pdf).
 
 The main theme of my research is using idealized climate models to have a better understanding of the climate system. I have done some work on understanding why the polar regions warm faster under increased greenhouse gas forcing ("Polar amplification"). I am currently working on understanding past warm climates, such as the Eocene, which were characterised by a small equator-to-pole temperature difference and above-freezing winter temperatures on the Arctic continent.
 
