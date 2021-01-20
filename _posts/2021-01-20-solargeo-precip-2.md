@@ -27,3 +27,5 @@ I think this is a case where idealized climate modelling can really help to get 
 - how different top-of-atmosphere forcings (that would result from different injection strategies) affect atmospheric circulation and hence precipitation.
 - how the spectral properties of the shortwave reduction affect precipitation, by manipulating the spectral bands within which shortwave radiation is reduced.
 - how stratospheric heating and changes in cloud radiative forcing that result from the presence of stratospheric aerosols affect precipitation.
+
+Ideally, this will lead us to understand how a given region's precipitation will be affected by a given injection strategy, and better inform decisionmakers on tradeoffs.
