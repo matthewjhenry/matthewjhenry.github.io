@@ -23,8 +23,8 @@ To better understand how stratospheric heating alone can affect precipitation, t
 
 Often, people model solar geoengineering by 'turning down the sun', but stratospheric heating, along with changes in cloud radiative forcing, and differences in the latitudinal pattern in radiative forcing are key differences between stratospheric aerosol injection and turning down the sun [(Visioni et al. 2020)](https://www.essoar.org/doi/10.1002/essoar.10504448.1). These other differences may also affect precipitation.
 
-I think this is a case where idealized climate modelling can really help to get us a mechanistic understanding of how solar geoengineering (or, more specifically, stratospheric aerosol injection) affects precipitation. In idealized GCM world, we can separate:
-- how different top-of-atmosphere forcings (that would result from different injection strategies) affect atmospheric circulation and hence precipitation.
+I think this is a case where idealized climate modelling can really help us to get a mechanistic understanding of how solar geoengineering (or, more specifically, stratospheric aerosol injection) affects precipitation. In idealized GCM world, we can separate:
+- how different top-of-atmosphere forcings (that result from different injection strategies) affect atmospheric circulation and hence precipitation.
 - how the spectral properties of the shortwave reduction affect precipitation, by manipulating the spectral bands within which shortwave radiation is reduced.
 - how stratospheric heating and changes in cloud radiative forcing that result from the presence of stratospheric aerosols affect precipitation.
 
