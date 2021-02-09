@@ -31,6 +31,8 @@ Feel free to reach out if you want to discuss projects (academic, outreach, or o
 
 Merlis, T.M. and **M. Henry**: Simple estimates of polar amplification in moist diffusive energy balance models. Journal of Climate, 2018. [Paper](https://doi.org/10.1175/JCLI-D-17-0578.1).
 
+I will happily email you a copy of my papers if you do not have access.
+
 ### Other
 
 I have put together some twitter threads in English and French on [solar geoengineering](https://twitter.com/mattjohenry/status/1208079869013307393), [CO2 lifetime in the atmosphere](https://twitter.com/mattjohenry/status/1298992761018802176), [the future of the human climate niche](https://twitter.com/mattjohenry/status/1258060124817678336), [my PhD thesis](https://twitter.com/EnDirectDuLabo/status/1249624495641571331), [my PostDoc work](https://twitter.com/EnDirectDuLabo/status/1250044374374907909), [brute estimates of CO2 concentration reductions from lockdown-induced reductions in CO2 emissions using FaIR](https://twitter.com/mattjohenry/status/1248669347209453568), and [refuting a Valeurs Actuelles video spreading falsehoods on climate change](https://twitter.com/mattjohenry/status/1154849664635736064).
