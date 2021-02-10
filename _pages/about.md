@@ -21,7 +21,7 @@ Feel free to reach out if you want to discuss projects (academic, outreach, or o
 
 ### Manuscripts
 
-**Henry, M.** and G.K. Vallis: Seasonality of polar warming in very high CO2 climates. In prep...
+**Henry, M.** and G.K. Vallis: Reduced High-Latitude Land Seasonality in Climates with Very High Carbon Dioxide. [Pre-print](https://eartharxiv.org/repository/view/2064/)
 
 **Henry, M.**, T.M. Merlis, N.J. Lutsko, and B.J. Rose: Decomposing the Drivers of Polar Amplification with a Single Column Model. Journal of Climate, 2020. [Paper](https://doi.org/10.1175/JCLI-D-20-0178.1). 20 minute presentation [video](https://www.youtube.com/watch?v=Z3LjvFSqOwo).
 
