@@ -5,6 +5,10 @@ permalink: /news/
 author_profile: true
 ---
 
+23/03/2021 - I co-hosted a little seminar with the Exeter and Bristol groups on paleoclimates, and presented on my recent Eocene work.
+
+17/03/2021 - I joined my PhD group at McGill University for a presentation on my Eocene work, and a "visit". It was great to catch up!
+
 22/10/2020 - I gave a talk on my new work on the seasonality of high latitude surface temperature change in an idealized GCM with no clouds or sea ice to the Climate Dynamics group in Exeter. There should be a pre-print coming out soon-ish.
 
 07/07/2020 - I was invited to give a presentation on my PhD work as part of the Scripps journal club (online!). Recorded <a href='https://www.youtube.com/watch?v=8Q93JCzOlzY'>here</a> and was followed by an interesting conversation. Thank you for the invite!
