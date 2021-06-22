@@ -19,7 +19,9 @@ Feel free to reach out if you want to discuss projects (academic, outreach, or o
 
 ### Manuscripts
 
-**Henry, M.** and G.K. Vallis: Reduced High-Latitude Land Seasonality in Climates with Very High Carbon Dioxide. [Pre-print](https://eartharxiv.org/repository/view/2064/), [twitter thread](https://twitter.com/mattjohenry/status/1359523196819628033), [2 minute video](https://www.youtube.com/watch?v=BwKJQ6UwfNo), and [9 minute video](https://www.youtube.com/watch?v=d7QCXURkZYM).
+**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. (in prep)
+
+**Henry, M.** and G.K. Vallis: Reduced High-Latitude Land Seasonality in Climates with Very High Carbon Dioxide. Journal of Climate, 2021. [Paper](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0131.1/JCLI-D-21-0131.1.xml), [twitter thread](https://twitter.com/mattjohenry/status/1359523196819628033), [2 minute video](https://www.youtube.com/watch?v=BwKJQ6UwfNo), and [9 minute video](https://www.youtube.com/watch?v=d7QCXURkZYM).
 
 **Henry, M.**, T.M. Merlis, N.J. Lutsko, and B.J. Rose: Decomposing the Drivers of Polar Amplification with a Single Column Model. Journal of Climate, 2020. [Paper](https://doi.org/10.1175/JCLI-D-20-0178.1) and [20 minute video](https://www.youtube.com/watch?v=Z3LjvFSqOwo).
 
