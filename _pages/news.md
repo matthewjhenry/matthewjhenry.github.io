@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
+04/06/2021 - I lead a [CMIP6 hackathon team](https://cmip6moap.github.io/projects/06-turning-down-sun-and-stratospheric-sulfate-injection/) working on temperature and precipitation extremes in solar geoengineering scenarios. 
+
 23/03/2021 - I co-hosted a little seminar with the Exeter and Bristol groups on paleoclimates, and presented on my recent Eocene work.
 
 17/03/2021 - I joined my PhD group at McGill University for a presentation on my Eocene work, and a "visit". It was great to catch up!
