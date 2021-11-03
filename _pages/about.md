@@ -19,7 +19,9 @@ Feel free to reach out if you want to discuss projects (academic, outreach, or o
 
 ### Manuscripts
 
-**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. (in prep)
+**Henry, M.** and G.K. Vallis, et al.: State dependence of the clear-sky longwave feedback in an idealized moist GCM. (in prep) 
+
+**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. [Pre-print](https://eartharxiv.org/repository/view/2798/)
 
 Andy Jones, Jim M. Haywood, Adam A. Scaife, Olivier Boucher, **Matthew Henry**, Ben Kravitz, Pierre Nabat, Ulrike Niemeier, Roland Seferian, and Daniele Visioni: The impact of stratospheric aerosol intervention on the North Atlantic and Quasi-Biennial Oscillations in the Geoengineering Model Intercomparison Project (GeoMIP) G6sulfur experiment. (in prep)
 
