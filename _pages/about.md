@@ -23,7 +23,7 @@ Feel free to reach out if you want to discuss projects (academic, outreach, or o
 
 **Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. [Pre-print](https://eartharxiv.org/repository/view/2798/)
 
-Andy Jones, Jim M. Haywood, Adam A. Scaife, Olivier Boucher, **Matthew Henry**, Ben Kravitz, Pierre Nabat, Ulrike Niemeier, Roland Seferian, and Daniele Visioni: The impact of stratospheric aerosol intervention on the North Atlantic and Quasi-Biennial Oscillations in the Geoengineering Model Intercomparison Project (GeoMIP) G6sulfur experiment. (in prep)
+Andy Jones, Jim M. Haywood, Adam A. Scaife, Olivier Boucher, **Matthew Henry**, Ben Kravitz, Pierre Nabat, Ulrike Niemeier, Roland Seferian, and Daniele Visioni: The impact of stratospheric aerosol intervention on the North Atlantic and Quasi-Biennial Oscillations in the Geoengineering Model Intercomparison Project (GeoMIP) G6sulfur experiment. [Pre-print](https://acp.copernicus.org/preprints/acp-2021-898/)
 
 Patrick Charles Taylor, Robyn C Boeke, Linette N Boisvert, Nicole Feldl, **Matthew Henry**, Yiyi Huang, Peter Langen, Wei Liu, Felix Pithan, Sergio Sejas, Ivy Tan: Process Drivers, Inter-model Spread, and the Path Forward: a Review of Amplified Arctic Warming. Submitted to Frontiers in Earth Science. [Pre-print](https://eartharxiv.org/repository/view/2693/)
 
