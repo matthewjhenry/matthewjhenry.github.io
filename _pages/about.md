@@ -21,11 +21,11 @@ Feel free to reach out if you want to discuss projects (academic, outreach, or o
 
 **Henry, M.** and G.K. Vallis, et al.: State dependence of the clear-sky longwave feedback in an idealized moist GCM. (in prep) 
 
-**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. [Pre-print](https://eartharxiv.org/repository/view/2798/)
+**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Under review. [Pre-print](https://eartharxiv.org/repository/view/2798/)
 
-Andy Jones, Jim M. Haywood, Adam A. Scaife, Olivier Boucher, **Matthew Henry**, Ben Kravitz, Pierre Nabat, Ulrike Niemeier, Roland Seferian, and Daniele Visioni: The impact of stratospheric aerosol intervention on the North Atlantic and Quasi-Biennial Oscillations in the Geoengineering Model Intercomparison Project (GeoMIP) G6sulfur experiment. [Pre-print](https://acp.copernicus.org/preprints/acp-2021-898/)
+Andy Jones, Jim M. Haywood, Adam A. Scaife, Olivier Boucher, **Matthew Henry**, Ben Kravitz, Pierre Nabat, Ulrike Niemeier, Roland Seferian, and Daniele Visioni: The impact of stratospheric aerosol intervention on the North Atlantic and Quasi-Biennial Oscillations in the Geoengineering Model Intercomparison Project (GeoMIP) G6sulfur experiment. [Paper](https://acp.copernicus.org/preprints/acp-2021-898/)
 
-Patrick Charles Taylor, Robyn C Boeke, Linette N Boisvert, Nicole Feldl, **Matthew Henry**, Yiyi Huang, Peter Langen, Wei Liu, Felix Pithan, Sergio Sejas, Ivy Tan: Process Drivers, Inter-model Spread, and the Path Forward: a Review of Amplified Arctic Warming. Submitted to Frontiers in Earth Science. [Pre-print](https://eartharxiv.org/repository/view/2693/)
+Patrick C Taylor, Robyn C Boeke, Linette N Boisvert, Nicole Feldl, **Matthew Henry**, Yiyi Huang, Peter Langen, Wei Liu, Felix Pithan, Sergio Sejas, Ivy Tan: Process Drivers, Inter-model Spread, and the Path Forward: a Review of Amplified Arctic Warming. Frontiers in Earth Science. [Paper](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full)
 
 **Henry, M.** and G.K. Vallis: Reduced High-Latitude Land Seasonality in Climates with Very High Carbon Dioxide. Journal of Climate, 2021. [Paper](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0131.1/JCLI-D-21-0131.1.xml), [twitter thread](https://twitter.com/mattjohenry/status/1359523196819628033), [2 minute video](https://www.youtube.com/watch?v=BwKJQ6UwfNo), and [9 minute video](https://www.youtube.com/watch?v=d7QCXURkZYM).
 
