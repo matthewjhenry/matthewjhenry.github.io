@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
+11/02/2022 - Carbon Brief [guest post](https://www.carbonbrief.org/guest-post-why-does-the-arctic-warm-faster-than-the-rest-of-the-planet) on Arctic amplification, loosely based on the recent [review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full). I am very happy to have contributed to Carbon Brief, who generally do great work!
+
 04/06/2021 - I lead a [CMIP6 hackathon team](https://cmip6moap.github.io/projects/06-turning-down-sun-and-stratospheric-sulfate-injection/) working on temperature and precipitation extremes in solar geoengineering scenarios. 
 
 23/03/2021 - I co-hosted a little seminar with the Exeter and Bristol groups on paleoclimates, and presented on my recent Eocene work.
