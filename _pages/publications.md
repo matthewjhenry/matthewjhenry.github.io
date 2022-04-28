@@ -9,9 +9,11 @@ author_profile: true
 
 **Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Under review. [Pre-print](https://eartharxiv.org/repository/view/2798/)
 
-Andy Jones, Jim M. Haywood, Adam A. Scaife, Olivier Boucher, **Matthew Henry**, Ben Kravitz, Pierre Nabat, Ulrike Niemeier, Roland Seferian, and Daniele Visioni: The impact of stratospheric aerosol intervention on the North Atlantic and Quasi-Biennial Oscillations in the Geoengineering Model Intercomparison Project (GeoMIP) G6sulfur experiment. [Paper](https://acp.copernicus.org/preprints/acp-2021-898/)
+Dann M. Mitchell, Emma J. Stone, Oliver D. Andrews, Jonathan L. Bamber, Rory J. Bingham, Jo Browse, **Matthew Henry**, David M. MacLeod, Joanne M. Morten, Christoph A. Sauter, Christopher J. Smith, James Thomas, Stephen I. Thomson, Jamie D. Wilson, and the Bristol CMIP6 Data Hackathon Participants : The Bristol CMIP6 Data Hackathon. Weather, 2022. [Paper](https://doi.org/10.1002/wea.4161)
 
-Patrick C Taylor, Robyn C Boeke, Linette N Boisvert, Nicole Feldl, **Matthew Henry**, Yiyi Huang, Peter Langen, Wei Liu, Felix Pithan, Sergio Sejas, Ivy Tan: Process Drivers, Inter-model Spread, and the Path Forward: a Review of Amplified Arctic Warming. Frontiers in Earth Science. [Paper](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full)
+Andy Jones, Jim M. Haywood, Adam A. Scaife, Olivier Boucher, **Matthew Henry**, Ben Kravitz, Pierre Nabat, Ulrike Niemeier, Roland Seferian, and Daniele Visioni: The impact of stratospheric aerosol intervention on the North Atlantic and Quasi-Biennial Oscillations in the Geoengineering Model Intercomparison Project (GeoMIP) G6sulfur experiment. Atmospheric Chemistry and Physics, 2022. [Paper](https://acp.copernicus.org/preprints/acp-2021-898/)
+
+Patrick C Taylor, Robyn C Boeke, Linette N Boisvert, Nicole Feldl, **Matthew Henry**, Yiyi Huang, Peter Langen, Wei Liu, Felix Pithan, Sergio Sejas, Ivy Tan: Process Drivers, Inter-model Spread, and the Path Forward: a Review of Amplified Arctic Warming. Frontiers in Earth Science, 2022. [Paper](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full)
 
 **Henry, M.** and G.K. Vallis: Reduced High-Latitude Land Seasonality in Climates with Very High Carbon Dioxide. Journal of Climate, 2021. [Paper](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0131.1/JCLI-D-21-0131.1.xml), [twitter thread](https://twitter.com/mattjohenry/status/1359523196819628033), [2 minute video](https://www.youtube.com/watch?v=BwKJQ6UwfNo), and [9 minute video](https://www.youtube.com/watch?v=d7QCXURkZYM).
 
