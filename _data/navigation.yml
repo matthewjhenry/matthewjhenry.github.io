@@ -1,5 +1,8 @@
 # main links links
-main:  
+main:
+
+  - title: "Publications"
+    url: /publications/  
 
   - title: "Posts"
     url: /year-archive/
@@ -7,5 +10,5 @@ main:
   - title: "News"
     url: /news/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Other"
+    url: /other/
