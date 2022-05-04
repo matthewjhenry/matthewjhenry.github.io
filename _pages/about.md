@@ -10,7 +10,7 @@ redirect_from:
 
 Postdoctoral Research Fellow at the University of Exeter, working with Prof. [Geoff Vallis](http://empslocal.ex.ac.uk/people/staff/gv219/). You can view my CV [here](https://matthewjhenry.github.io/CV_Henry.pdf).
 
-My research is split into 3 main streams:
+My research is split into three main streams:
 - Polar amplification of warming. [Review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1).
 - Understanding past warm climates such as the Eocene. [Paper](https://doi.org/10.1175/JCLI-D-21-0131.1) and [pre-print](https://eartharxiv.org/repository/view/2798/).
 - Solar geoengineering. [Paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://doi.org/10.5194/acp-22-2999-2022).
