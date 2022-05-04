@@ -17,9 +17,13 @@ My research is split into 3 main streams:
 
 The overarching theme of my research is using a hierarchy of climate models to have a better understanding of the climate system.
 
+<br/><br/>
+
 # Recent Highlights
 
 Carbon Brief [guest post](https://www.carbonbrief.org/guest-post-why-does-the-arctic-warm-faster-than-the-rest-of-the-planet) on Arctic Amplification.
+
+<br/><br/>
 
 # Selected Publications (See [Publications](https://matthewjhenry.github.io/publications/) for a full list)
 
