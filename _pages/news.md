@@ -11,7 +11,9 @@ author_profile: true
 
 15/06/2022 - I gave a talk at the Atmospheric and Oceanic Fluid Dynamics (AOFD) conference in Breckenridge (CO, USA) on the State dependence of the clear-sky longwave feedback in a clear-sky GCM. It was great to reconnect with colleagues from across the pond!
 
-07/06/2022 - I gave an invited talk at the [Carnegie Research Workshop on Continental Climate Change](https://sites.google.com/tcd.ie/continental-climate-change/home) in St Andrews (UK) on the Reduced High-Latitude Land Seasonality in Climates with Very High Carbon Dioxide.
+07/06/2022 - I was invited to give a talk at the [Carnegie Research Workshop on Continental Climate Change](https://sites.google.com/tcd.ie/continental-climate-change/home) in St Andrews (UK) on the Reduced High-Latitude Land Seasonality in Climates with Very High Carbon Dioxide.
+
+22/05/2022 - I was invited to give a seminar at the Weizmann Institute of Earth and Planetary Sciences in Israel (remote) on Different Pathways to an Early Eocene Climate. It was unusual but fun to give a talk on a Sunday, great to meet Israeli colleagues!
 
 10/03/2022 - I gave a talk on some Isca simulations investigating the peak in Equilibrium Climate Sensitivity around 310K to the physical climate group here in Exeter.
 
