@@ -5,6 +5,14 @@ permalink: /news/
 author_profile: true
 ---
 
+26/06/2022 - I have a poster and leading a discussion at the 2022 Climate Engineering Gordon Research Conference in Newry (ME). Needless to say, it's been a busy June!
+
+22/06/2022 - I was invited to give a casual group talk at NCAR (Boulder, CO) on my ECS work. What a lovely environment to work in, and great people to chat with!
+
+15/06/2022 - I gave a talk at the Atmospheric and Oceanic Fluid Dynamics (AOFD) conference in Breckenridge (CO, USA) on the State dependence of the clear-sky longwave feedback in a clear-sky GCM. It was great to reconnect with colleagues from across the pond!
+
+07/06/2022 - I gave an invited talk at the [Carnegie Research Workshop on Continental Climate Change](https://sites.google.com/tcd.ie/continental-climate-change/home) in St Andrews (UK) on the Reduced High-Latitude Land Seasonality in Climates with Very High Carbon Dioxide.
+
 10/03/2022 - I gave a talk on some Isca simulations investigating the peak in Equilibrium Climate Sensitivity around 310K to the physical climate group here in Exeter.
 
 11/02/2022 - Carbon Brief [guest post](https://www.carbonbrief.org/guest-post-why-does-the-arctic-warm-faster-than-the-rest-of-the-planet) on Arctic amplification, loosely based on the recent [review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full). I am very happy to have contributed to Carbon Brief, who generally do great work!
