@@ -5,6 +5,10 @@ permalink: /news/
 author_profile: true
 ---
 
+12/08/2022 - My [Eocene article](https://doi.org/10.1029/2021PA004375) is now published open access online! 
+
+11/08/2022 - Carbon Brief wrote an [article](https://www.carbonbrief.org/the-arctic-has-warmed-nearly-four-times-faster-than-the-global-average/) on Arctic amplification, in which I was asked to comment on the article claiming that, in observations, the Arctic is warming faster than in climate models.
+
 26/06/2022 - I have a poster and leading a discussion at the 2022 Climate Engineering Gordon Research Conference in Newry (ME). Needless to say, it's been a busy June!
 
 22/06/2022 - I was invited to give a casual group talk at NCAR (Boulder, CO) on my ECS work. What a lovely environment to work in, and great people to chat with!

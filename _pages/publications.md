@@ -7,7 +7,7 @@ author_profile: true
 
 **Henry, M.** and G.K. Vallis, et al.: State dependence of the clear-sky longwave feedback in an idealized moist GCM. (in prep)
 
-**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Accepted in Paleoceanography and Paleoclimatology. [Pre-print](https://eartharxiv.org/repository/view/2798/)
+**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Paleoceanography and Paleoclimatology, 2022. [Article (open access)](https://doi.org/10.1029/2021PA004375)
 
 
 Dann M. Mitchell, Emma J. Stone, Oliver D. Andrews, Jonathan L. Bamber, Rory J. Bingham, Jo Browse, **Matthew Henry**, David M. MacLeod, Joanne M. Morten, Christoph A. Sauter, Christopher J. Smith, James Thomas, Stephen I. Thomson, Jamie D. Wilson, and the Bristol CMIP6 Data Hackathon Participants : The Bristol CMIP6 Data Hackathon. Weather, 2022. [Paper](https://doi.org/10.1002/wea.4161)

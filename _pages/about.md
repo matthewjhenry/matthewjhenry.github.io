@@ -23,7 +23,7 @@ Carbon Brief [guest post](https://www.carbonbrief.org/guest-post-why-does-the-ar
 
 # Selected Publications
 
-**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Accepted in Paleoceanography and Paleoclimatology. [Pre-print](https://eartharxiv.org/repository/view/2798/)
+**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Paleoceanography and Paleoclimatology, 2022. [Paper (open access)](https://doi.org/10.1029/2021PA004375)
 
 Patrick C Taylor, Robyn C Boeke, Linette N Boisvert, Nicole Feldl, **Matthew Henry**, Yiyi Huang, Peter Langen, Wei Liu, Felix Pithan, Sergio Sejas, Ivy Tan: Process Drivers, Inter-model Spread, and the Path Forward: a Review of Amplified Arctic Warming. Frontiers in Earth Science. [Paper](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full)
 
