@@ -15,9 +15,6 @@ My research is split into three main streams:
 - Do we understand past warm climates such as the Eocene? [Paper](https://doi.org/10.1175/JCLI-D-21-0131.1) and [pre-print](https://eartharxiv.org/repository/view/2798/).
 - What are the physical risks and trade-offs of solar geoengineering? [Paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://doi.org/10.5194/acp-22-2999-2022), and more to come.
 
-<br/>
-
-# Highlights
 
 Carbon Brief [guest post](https://www.carbonbrief.org/guest-post-why-does-the-arctic-warm-faster-than-the-rest-of-the-planet) on Arctic Amplification.
 
