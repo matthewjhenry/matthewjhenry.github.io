@@ -11,13 +11,21 @@ redirect_from:
 Postdoctoral Research Fellow at the University of Exeter, working with Prof. [Geoff Vallis](http://empslocal.ex.ac.uk/people/staff/gv219/). You can view my CV [here](https://matthewjhenry.github.io/CV_Henry.pdf).
 
 My research is split into three main streams:
-- Polar amplification of warming. [Review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1).
-- Understanding past warm climates such as the Eocene. [Paper](https://doi.org/10.1175/JCLI-D-21-0131.1) and [pre-print](https://eartharxiv.org/repository/view/2798/).
-- Solar geoengineering. [Paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://doi.org/10.5194/acp-22-2999-2022).
+- Why does it warm more at the poles? [Review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1).
+- Do we understand past warm climates such as the Eocene? [Paper](https://doi.org/10.1175/JCLI-D-21-0131.1) and [pre-print](https://eartharxiv.org/repository/view/2798/).
+- What are the physical risks and trade-offs of solar geoengineering? [Paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://doi.org/10.5194/acp-22-2999-2022), and more to come.
 
-The overarching theme of my research is using a hierarchy of climate models to have a better understanding of the climate system.
+# Highlights
 
 Carbon Brief [guest post](https://www.carbonbrief.org/guest-post-why-does-the-arctic-warm-faster-than-the-rest-of-the-planet) on Arctic Amplification.
+
+<br/>
+
+# In Prep
+
+**Henry, M.** and G.K. Vallis and others: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. Preprint coming soon.
+
+**Henry, M.** and J. Haywood and others: Model comparison of ARISE-SAI-1.5 Simulations Using UKESM1 and CESM2. Preprint coming soon. [Recording of XCS Seminar.](https://www.youtube.com/watch?v=NKqp58g3EPw)
 
 <br/>
 
