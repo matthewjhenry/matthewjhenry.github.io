@@ -10,7 +10,7 @@ redirect_from:
 
 Postdoctoral Research Fellow at the University of Exeter, working with Prof. [Jim Haywood](https://mathematics.exeter.ac.uk/staff/jmh232?sm=jmh232). You can view my CV [here](https://matthewjhenry.github.io/CV_Henry.pdf).
 
-My research is now mainly focused on solar geoengineering ([Paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://doi.org/10.5194/acp-22-2999-2022)). 
+My research is mainly focused on solar geoengineering ([Paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://doi.org/10.5194/acp-22-2999-2022)). 
 
 I have also done work on the polar amplification of warming ([Review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1) and understanding past warm climates such as the Eocene([Paper](https://doi.org/10.1175/JCLI-D-21-0131.1) and [pre-print](https://eartharxiv.org/repository/view/2798/)).
 
@@ -27,3 +27,11 @@ Patrick C Taylor, Robyn C Boeke, Linette N Boisvert, Nicole Feldl, **Matthew Hen
 **Henry, M.**, T.M. Merlis, N.J. Lutsko, and B.J. Rose: Decomposing the Drivers of Polar Amplification with a Single Column Model. Journal of Climate, 2020. [Paper](https://doi.org/10.1175/JCLI-D-20-0178.1) and [20 minute video](https://www.youtube.com/watch?v=Z3LjvFSqOwo).
 
 **Henry, M.** and T.M. Merlis: Lapse rate changes dominate residual polar warming in solar radiation management experiments. Geophysical Research Letters, 2020. [Paper](https://doi.org/10.1029/2020GL087929) and <a href='https://www.youtube.com/watch?v=SnsH-4Nca9A'>AOFD talk recording</a>.
+
+<br/>
+
+# In Prep
+
+**Henry, M.** and G.K. Vallis and others: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. Preprint coming soon.
+
+**Henry, M.** and J. Haywood and others: Model comparison of ARISE-SAI-1.5 Simulations Using UKESM1 and CESM2. Preprint coming soon. [Recording of XCS Seminar.](https://www.youtube.com/watch?v=NKqp58g3EPw)
