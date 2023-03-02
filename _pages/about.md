@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Research Fellow at the University of Exeter, working with Prof. [Geoff Vallis](http://empslocal.ex.ac.uk/people/staff/gv219/). You can view my CV [here](https://matthewjhenry.github.io/CV_Henry.pdf).
+Postdoctoral Research Fellow at the University of Exeter, working with [Prof. Jim Haywood](https://mathematics.exeter.ac.uk/staff/jmh232?sm=jmh232). You can view my CV [here](https://matthewjhenry.github.io/CV_Henry.pdf).
 
-My research is split into three main streams:
-- Why does it warm more at the poles? [Review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1).
-- Do we understand past warm climates such as the Eocene? [Paper](https://doi.org/10.1175/JCLI-D-21-0131.1) and [pre-print](https://eartharxiv.org/repository/view/2798/).
-- What are the physical risks and trade-offs of solar geoengineering? [Paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://doi.org/10.5194/acp-22-2999-2022), and more to come.
+My research is mainly focused on solar geoengineering ([Paper 1](https://doi.org/10.1029/2020GL087929), [paper 2](https://doi.org/10.5194/acp-22-2999-2022), and more in preparation). 
+
+I have also done work on the polar amplification of warming ([Review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1)) and understanding past warm climates such as the Eocene ([Paper](https://doi.org/10.1175/JCLI-D-21-0131.1) and [pre-print](https://eartharxiv.org/repository/view/2798/)).
 
 Solar Climate Intervention [Virtual Symposia](https://sites.google.com/view/solargeo-symposium/home). If you want to present your solar climate intervention science research, please get in touch!
 
