@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Henry, M.** and G.K. Vallis, et al.: State dependence of the clear-sky longwave feedback in an idealized moist GCM. (in prep)
+**Henry, M.** and G.K. Vallis, et al.: State dependence of the clear-sky longwave feedback in an idealized moist GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1).
 
 **Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Paleoceanography and Paleoclimatology, 2022. [Article (open access)](https://doi.org/10.1029/2021PA004375)
 

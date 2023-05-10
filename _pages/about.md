@@ -34,6 +34,6 @@ Patrick C Taylor, Robyn C Boeke, Linette N Boisvert, Nicole Feldl, **Matthew Hen
 
 # In Prep
 
-**Henry, M.** and G.K. Vallis and others: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. Preprint coming soon.
+**Henry, M.** and G.K. Vallis and others: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1).
 
 **Henry, M.** and J. Haywood and others: Model comparison of ARISE-SAI-1.5 Simulations Using UKESM1 and CESM2. Preprint coming soon. [Recording of XCS Seminar.](https://www.youtube.com/watch?v=NKqp58g3EPw)
