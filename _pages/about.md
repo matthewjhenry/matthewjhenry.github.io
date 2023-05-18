@@ -12,7 +12,7 @@ Postdoctoral Research Fellow at the University of Exeter, working with [Prof. Ji
 
 My research is mainly focused on solar geoengineering ([Paper 1](https://doi.org/10.1029/2020GL087929), [paper 2](https://doi.org/10.5194/acp-22-2999-2022), and more in preparation). 
 
-I have also done work on the polar amplification of warming ([Review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1)) and understanding past warm climates such as the Eocene ([Paper](https://doi.org/10.1175/JCLI-D-21-0131.1) and [pre-print](https://eartharxiv.org/repository/view/2798/)).
+I have also done work on the polar amplification of warming ([Review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1)) and understanding past warm climates such as the Eocene ([Paper 1](https://doi.org/10.1175/JCLI-D-21-0131.1) and [Paper 2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021PA004375)).
 
 Solar Climate Intervention [Virtual Symposia](https://sites.google.com/view/solargeo-symposium/home). If you want to present your solar climate intervention science research, please get in touch!
 
@@ -32,8 +32,12 @@ Patrick C Taylor, Robyn C Boeke, Linette N Boisvert, Nicole Feldl, **Matthew Hen
 
 <br/>
 
-# In Prep
+# Preprints
 
 **Henry, M.** and G.K. Vallis and others: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1).
+
+<br/>
+
+# In Prep
 
 **Henry, M.** and J. Haywood and others: Model comparison of ARISE-SAI-1.5 Simulations Using UKESM1 and CESM2. Preprint coming soon. [Recording of XCS Seminar.](https://www.youtube.com/watch?v=NKqp58g3EPw)
