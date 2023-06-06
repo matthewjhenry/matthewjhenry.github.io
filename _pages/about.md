@@ -24,7 +24,7 @@ Carbon Brief [guest post](https://www.carbonbrief.org/guest-post-why-does-the-ar
 
 **Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Paleoceanography and Paleoclimatology, 2022. [Paper (open access)](https://doi.org/10.1029/2021PA004375)
 
-Patrick C Taylor, Robyn C Boeke, Linette N Boisvert, Nicole Feldl, **Matthew Henry**, Yiyi Huang, Peter Langen, Wei Liu, Felix Pithan, Sergio Sejas, Ivy Tan: Process Drivers, Inter-model Spread, and the Path Forward: a Review of Amplified Arctic Warming. Frontiers in Earth Science. [Paper](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full)
+P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Langen, W. Liu, F. Pithan, S. Sejas, I. Tan: Process Drivers, Inter-model Spread, and the Path Forward: a Review of Amplified Arctic Warming. Frontiers in Earth Science. [Paper](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full)
 
 **Henry, M.**, T.M. Merlis, N.J. Lutsko, and B.J. Rose: Decomposing the Drivers of Polar Amplification with a Single Column Model. Journal of Climate, 2020. [Paper](https://doi.org/10.1175/JCLI-D-20-0178.1) and [20 minute video](https://www.youtube.com/watch?v=Z3LjvFSqOwo).
 
@@ -34,10 +34,10 @@ Patrick C Taylor, Robyn C Boeke, Linette N Boisvert, Nicole Feldl, **Matthew Hen
 
 # Preprints
 
-**Henry, M.** and G.K. Vallis and others: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1).
+**Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-980/), [Talk](https://www.youtube.com/watch?v=NKqp58g3EPw)
+
+**Henry, M.**, G.K. Vallis, N. Lutsko, J.T. Seeley, B.A. McKim: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1).
+
 
 <br/>
 
-# In Prep
-
-**Henry, M.** and J. Haywood and others: Model comparison of ARISE-SAI-1.5 Simulations Using UKESM1 and CESM2. Preprint coming soon. [Recording of XCS Seminar.](https://www.youtube.com/watch?v=NKqp58g3EPw)
