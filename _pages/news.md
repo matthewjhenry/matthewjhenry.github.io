@@ -4,6 +4,11 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+25/04/2023 - European Geosciences Union meeting in Vienna. I gave a talk on solar geoengineering, and had a great time reconnecting with friends (old and new)!
+
+02/03/2023 - I joined the "Ask a Climate Researcher" outreach event at the University of Leeds (where I am now based).
+
+02/12/2022 - I gave a talk in the XCS seminar series at the University of Exeter. See recording [here](https://youtu.be/NKqp58g3EPw).
 
 12/08/2022 - My [Eocene article](https://doi.org/10.1029/2021PA004375) is now published open access online! 
 
