@@ -34,7 +34,7 @@ P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Lan
 
 # Preprints
 
-**Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-980/), [Talk](https://www.youtube.com/watch?v=NKqp58g3EPw)
+**Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-980/), [15 min talk](https://www.youtube.com/watch?v=RpxDpHDqEDI), [Old 30 min talk](https://www.youtube.com/watch?v=NKqp58g3EPw).
 
 **Henry, M.**, G.K. Vallis, N. Lutsko, J.T. Seeley, B.A. McKim: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1).
 
