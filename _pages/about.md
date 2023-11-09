@@ -10,17 +10,19 @@ redirect_from:
 
 Postdoctoral Research Fellow at the University of Exeter, working with [Prof. Jim Haywood](https://mathematics.exeter.ac.uk/staff/jmh232?sm=jmh232). You can view my CV [here](https://matthewjhenry.github.io/CV_Henry.pdf).
 
-My research is mainly focused on solar geoengineering ([Paper 1](https://doi.org/10.1029/2020GL087929), [paper 2](https://doi.org/10.5194/acp-22-2999-2022), and more in preparation). 
+My research is mainly focused on solar geoengineering (For example, [paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://acp.copernicus.org/articles/23/13369/2023/)). 
 
 I have also done work on the polar amplification of warming ([Review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1)) and understanding past warm climates such as the Eocene ([Paper 1](https://doi.org/10.1175/JCLI-D-21-0131.1) and [Paper 2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021PA004375)).
 
-Solar Climate Intervention [Virtual Symposia](https://sites.google.com/view/solargeo-symposium/home). If you want to present your solar climate intervention science research, please get in touch!
+I co-host the [Solar Climate Intervention Virtual Symposia](https://sites.google.com/view/solargeo-symposium/home). If you want to present your solar climate intervention science research, please get in touch!
 
-Carbon Brief [guest post](https://www.carbonbrief.org/guest-post-why-does-the-arctic-warm-faster-than-the-rest-of-the-planet) on Arctic Amplification.
+Here is perhaps my proudest piece of work: [Carbon Brief guest post](https://www.carbonbrief.org/guest-post-why-does-the-arctic-warm-faster-than-the-rest-of-the-planet) on Arctic Amplification.
 
 <br/>
 
 # Selected Publications
+
+**Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Paper](https://acp.copernicus.org/articles/23/13369/2023/), [15 min talk](https://www.youtube.com/watch?v=RpxDpHDqEDI), [Old 30 min talk](https://www.youtube.com/watch?v=NKqp58g3EPw).
 
 **Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Paleoceanography and Paleoclimatology, 2022. [Paper (open access)](https://doi.org/10.1029/2021PA004375)
 
@@ -34,10 +36,7 @@ P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Lan
 
 # Preprints
 
-**Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-980/), [15 min talk](https://www.youtube.com/watch?v=RpxDpHDqEDI), [Old 30 min talk](https://www.youtube.com/watch?v=NKqp58g3EPw).
-
-**Henry, M.**, G.K. Vallis, N. Lutsko, J.T. Seeley, B.A. McKim: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1).
-
+**Henry, M.**, G.K. Vallis, N. Lutsko, J.T. Seeley, B.A. McKim: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1) accepted for publication in GRL.
 
 <br/>
 

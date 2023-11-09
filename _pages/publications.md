@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-980/), [Talk](https://www.youtube.com/watch?v=NKqp58g3EPw)
+**Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Preprint](https://acp.copernicus.org/articles/23/13369/2023/), [Talk](https://www.youtube.com/watch?v=NKqp58g3EPw)
 
-**Henry, M.**, G.K. Vallis, N. Lutsko, J.T. Seeley, B.A. McKim: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1).
+**Henry, M.**, G.K. Vallis, N. Lutsko, J.T. Seeley, B.A. McKim: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1) accepted for publication in GRL.
 
 **Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Paleoceanography and Paleoclimatology, 2022. [Article (open access)](https://doi.org/10.1029/2021PA004375)
 
