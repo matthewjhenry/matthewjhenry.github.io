@@ -34,9 +34,11 @@ P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Lan
 
 <br/>
 
-# Preprints
+# Work in progress
 
-**Henry, M.**, G.K. Vallis, N. Lutsko, J.T. Seeley, B.A. McKim: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1) accepted for publication in GRL.
+**Henry, M.**, E. Bednarz, and J. Haywood : How Much does Latitude of Injection Matter for Stratospheric Aerosol Injection in UKESM1?
+
+Hirasawa, H. and **Henry, M.** : Arctic marine cloud brightening : a comparison between UKESM1 and CESM2.
 
 <br/>
 
