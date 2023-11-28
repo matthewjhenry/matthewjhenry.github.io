@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Preprint](https://acp.copernicus.org/articles/23/13369/2023/), [Talk](https://www.youtube.com/watch?v=NKqp58g3EPw)
+**Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Paper](https://acp.copernicus.org/articles/23/13369/2023/), [15 min talk](https://www.youtube.com/watch?v=RpxDpHDqEDI), [Old 30 min talk](https://www.youtube.com/watch?v=NKqp58g3EPw).
+
+Visioni, D., A. Robock, J. Haywood, **M. Henry**, S. Tilmes, D. G. MacMartin, B. Kravitz, S. Doherty, J. Moore, C. Lennard, S. Watanabe, H. Muri, U. Niemeier, O. Boucher, A. Syed, T. S. Egbebiyi: G6-1.5 K-SAI: a new Geoengineering Model Intercomparison Project (GeoMIP) experiment integrating recent advances in solar radiation modification studies. [Preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2406/)
+
+Visioni, D., A. Robock, J. Haywood, **M. Henry**, A. Wells: A New Era for the Geoengineering Model Intercomparison Project (GeoMIP). Bulletin of the American Meteorological Society. 2023. [Article](https://journals.ametsoc.org/view/journals/bams/104/11/BAMS-D-23-0232.1.xml).
 
 **Henry, M.**, G.K. Vallis, N. Lutsko, J.T. Seeley, B.A. McKim: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1) accepted for publication in GRL.
 
