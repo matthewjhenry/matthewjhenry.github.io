@@ -11,7 +11,7 @@ Visioni, D., A. Robock, J. Haywood, **M. Henry**, S. Tilmes, D. G. MacMartin, B.
 
 Visioni, D., A. Robock, J. Haywood, **M. Henry**, A. Wells: A New Era for the Geoengineering Model Intercomparison Project (GeoMIP). Bulletin of the American Meteorological Society. 2023. [Article](https://journals.ametsoc.org/view/journals/bams/104/11/BAMS-D-23-0232.1.xml).
 
-**Henry, M.**, G.K. Vallis, N. Lutsko, J.T. Seeley, B.A. McKim: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.168332210.06249553/v1) accepted for publication in GRL.
+**Henry, M.**, G.K. Vallis, N. Lutsko, J.T. Seeley, B.A. McKim: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. Geophysical Research Letters. 2023. [Article](http://dx.doi.org/10.1029/2023GL104413).
 
 **Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Paleoceanography and Paleoclimatology, 2022. [Article (open access)](https://doi.org/10.1029/2021PA004375)
 

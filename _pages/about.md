@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Research Fellow at the University of Exeter, working with [Prof. Jim Haywood](https://mathematics.exeter.ac.uk/staff/jmh232?sm=jmh232). You can view my CV [here](https://matthewjhenry.github.io/CV_Henry.pdf).
+Postdoctoral Research Fellow at the University of Exeter, working with [Prof. Jim Haywood](https://mathematics.exeter.ac.uk/staff/jmh232?sm=jmh232). You can view my CV [here](https://docs.google.com/document/d/1IBtOTVfRRxr8NlmzCb0XxlWBgMeS2nTuEs3m1GDZ6OQ/edit?usp=sharing).
 
 My research is mainly focused on solar geoengineering (For example, [paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://acp.copernicus.org/articles/23/13369/2023/)). 
 
