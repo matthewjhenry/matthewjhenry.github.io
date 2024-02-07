@@ -10,13 +10,13 @@ redirect_from:
 
 Postdoctoral Research Fellow at the University of Exeter, working with [Prof. Jim Haywood](https://mathematics.exeter.ac.uk/staff/jmh232?sm=jmh232). You can view my CV [here](https://docs.google.com/document/d/1IBtOTVfRRxr8NlmzCb0XxlWBgMeS2nTuEs3m1GDZ6OQ/edit?usp=sharing).
 
-My research is mainly focused on solar geoengineering (For example, [paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://acp.copernicus.org/articles/23/13369/2023/)). 
+My research is mainly focused on solar geoengineering ([paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://acp.copernicus.org/articles/23/13369/2023/) for example). 
 
-I have also done work on the polar amplification of warming ([Review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1)) and understanding past warm climates such as the Eocene ([Paper 1](https://doi.org/10.1175/JCLI-D-21-0131.1) and [Paper 2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021PA004375)).
+I have also done work on the polar amplification of warming ([review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1)) and understanding past warm climates such as the Eocene ([paper 1](https://doi.org/10.1175/JCLI-D-21-0131.1) and [paper 2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021PA004375)).
 
 I co-host the [Solar Climate Intervention Virtual Symposia](https://sites.google.com/view/solargeo-symposium/home). If you want to present your solar climate intervention science research, please get in touch!
 
-Here is perhaps my proudest piece of work: [Carbon Brief guest post](https://www.carbonbrief.org/guest-post-why-does-the-arctic-warm-faster-than-the-rest-of-the-planet) on Arctic Amplification.
+[Carbon Brief guest post](https://www.carbonbrief.org/guest-post-why-does-the-arctic-warm-faster-than-the-rest-of-the-planet) on Arctic Amplification.
 
 <br/>
 
@@ -36,9 +36,9 @@ P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Lan
 
 # Work in progress
 
-**Henry, M.**, E. Bednarz, and J. Haywood : How Much does Latitude of Injection Matter for Stratospheric Aerosol Injection in UKESM1?
+**Henry, M.**, E. Bednarz, and J. Haywood : How Much does Latitude Matter for Stratospheric Aerosol Injection in UKESM1? [10-min presentation](https://youtu.be/_wlVsE3XQLE), pre-print coming soon.
 
-Hirasawa, H. and **Henry, M.** : Arctic marine cloud brightening : a comparison between UKESM1 and CESM2.
+**Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Sea-Salt Injection to Cool the Arctic : an Earth System Model Comparison.
 
 <br/>
 
