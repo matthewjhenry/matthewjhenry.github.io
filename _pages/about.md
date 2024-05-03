@@ -36,9 +36,10 @@ P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Lan
 
 # Work in progress
 
-**Henry, M.**, E. Bednarz, and J. Haywood : How Much does Latitude Matter for Stratospheric Aerosol Injection in UKESM1? [10-min presentation](https://youtu.be/_wlVsE3XQLE), pre-print coming soon.
+**Henry, M.**, E. Bednarz, J. Haywood, and D.MacMartin : How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1? [10-min presentation](https://youtu.be/_wlVsE3XQLE), pre-print coming soon.
 
 **Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Sea-Salt Injection to Cool the Arctic : an Earth System Model Comparison.
 
+Jordan, G. and **M. Henry** : Effect of IMO2020 regulations on climate in UKESM1.
 <br/>
 
