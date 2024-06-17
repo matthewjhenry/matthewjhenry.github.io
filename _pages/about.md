@@ -10,7 +10,7 @@ redirect_from:
 
 Postdoctoral Research Fellow at the University of Exeter, working with [Prof. Jim Haywood](https://mathematics.exeter.ac.uk/staff/jmh232?sm=jmh232). You can view my CV [here](https://docs.google.com/document/d/1IBtOTVfRRxr8NlmzCb0XxlWBgMeS2nTuEs3m1GDZ6OQ/edit?usp=sharing).
 
-My research is mainly focused on solar geoengineering ([paper 1](https://doi.org/10.1029/2020GL087929) and [paper 2](https://acp.copernicus.org/articles/23/13369/2023/) for example). 
+My research is mainly focused on understanding the potential risks and benefits of Sunlight Reflection Methods (SRM). 
 
 I have also done work on the polar amplification of warming ([review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1)) and understanding past warm climates such as the Eocene ([paper 1](https://doi.org/10.1175/JCLI-D-21-0131.1) and [paper 2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021PA004375)).
 
@@ -36,10 +36,10 @@ P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Lan
 
 # Work in progress
 
-**Henry, M.**, E. Bednarz, J. Haywood, and D.MacMartin : How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1? [10-min presentation](https://youtu.be/_wlVsE3XQLE), pre-print coming soon.
+**Henry, M.**, E. Bednarz, J. Haywood, and D.MacMartin : How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1? [10-min presentation](https://youtu.be/_wlVsE3XQLE) and [pre-print](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1565/).
 
 **Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Sea-Salt Injection to Cool the Arctic : an Earth System Model Comparison.
 
-Jordan, G. and **M. Henry** : Effect of IMO2020 regulations on climate in UKESM1.
+Jordan, G. and **M. Henry** : IMO2020 Regulations Accelerate Global Warming by up to 3 Years in UKESM1. Submitted, preprint coming soon.
 <br/>
 
