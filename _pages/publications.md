@@ -5,15 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Henry, M.**, E. Bednarz, and J. Haywood : How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1? [10-min presentation](https://youtu.be/_wlVsE3XQLE) and [pre-print](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1565/).
+
+Jordan, G. and **M. Henry** : IMO2020 Regulations Accelerate Global Warming by up to 3 Years in UKESM1. [Accepted preprint](https://essopenarchive.org/doi/full/10.22541/essoar.172046812.23872610).
+
+Tilmes, S., Rosenlof, K.H., Visioni, D., Bednarz, E.M., Felgenhauer, T., Smith, W., Lennard, C., Diamond, M.S., **Henry, M.**, Harrison, C.S. and Thompson, C., 2024. Research criteria towards an interdisciplinary Stratospheric Aerosol Intervention assessment. Oxford Open Climate Change. [Article](https://academic.oup.com/oocc/article/4/1/kgae010/770178)
+
 **Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Paper](https://acp.copernicus.org/articles/23/13369/2023/), [15 min talk](https://www.youtube.com/watch?v=RpxDpHDqEDI), [Old 30 min talk](https://www.youtube.com/watch?v=NKqp58g3EPw).
 
-Visioni, D., A. Robock, J. Haywood, **M. Henry**, S. Tilmes, D. G. MacMartin, B. Kravitz, S. Doherty, J. Moore, C. Lennard, S. Watanabe, H. Muri, U. Niemeier, O. Boucher, A. Syed, T. S. Egbebiyi: G6-1.5 K-SAI: a new Geoengineering Model Intercomparison Project (GeoMIP) experiment integrating recent advances in solar radiation modification studies. [Preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2406/)
+Visioni, D., A. Robock, J. Haywood, **M. Henry**, S. Tilmes, D. G. MacMartin, B. Kravitz, S. Doherty, J. Moore, C. Lennard, S. Watanabe, H. Muri, U. Niemeier, O. Boucher, A. Syed, T. S. Egbebiyi: G6-1.5 K-SAI: a new Geoengineering Model Intercomparison Project (GeoMIP) experiment integrating recent advances in solar radiation modification studies. [Article](https://gmd.copernicus.org/articles/17/2583/2024/)
 
 Visioni, D., A. Robock, J. Haywood, **M. Henry**, A. Wells: A New Era for the Geoengineering Model Intercomparison Project (GeoMIP). Bulletin of the American Meteorological Society. 2023. [Article](https://journals.ametsoc.org/view/journals/bams/104/11/BAMS-D-23-0232.1.xml).
 
 **Henry, M.**, G.K. Vallis, N. Lutsko, J.T. Seeley, B.A. McKim: State-dependence on the equilibrium climate sensitivity in a clear-sky GCM. Geophysical Research Letters. 2023. [Article](http://dx.doi.org/10.1029/2023GL104413).
 
-**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Paleoceanography and Paleoclimatology, 2022. [Article (open access)](https://doi.org/10.1029/2021PA004375)
+**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Paleoceanography and Paleoclimatology, 2022. [Article](https://doi.org/10.1029/2021PA004375)
 
 D.M. Mitchell, E.J. Stone, O.D. Andrews, J.L. Bamber, R.J. Bingham, J. Browse, **M. Henry**, D.M. MacLeod, J.M. Morten, C.A. Sauter, C.J. Smith, J. Thomas, S.I. Thomson, J.D. Wilson, and the Bristol CMIP6 Data Hackathon Participants : The Bristol CMIP6 Data Hackathon. Weather, 2022. [Paper](https://doi.org/10.1002/wea.4161)
 
