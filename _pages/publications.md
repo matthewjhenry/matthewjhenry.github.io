@@ -7,7 +7,7 @@ author_profile: true
 
 **Henry, M.**, E. Bednarz, and J. Haywood : How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1? [10-min presentation](https://youtu.be/_wlVsE3XQLE) and [pre-print](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1565/).
 
-Jordan, G. and **M. Henry** : IMO2020 Regulations Accelerate Global Warming by up to 3 Years in UKESM1. [Accepted preprint](https://essopenarchive.org/doi/full/10.22541/essoar.172046812.23872610).
+Jordan, G. and **M. Henry** : IMO2020 Regulations Accelerate Global Warming by up to 3 Years in UKESM1. [Paper](http://dx.doi.org/10.1029/2024EF005011)
 
 Tilmes, S., Rosenlof, K.H., Visioni, D., Bednarz, E.M., Felgenhauer, T., Smith, W., Lennard, C., Diamond, M.S., **Henry, M.**, Harrison, C.S. and Thompson, C., 2024. Research criteria towards an interdisciplinary Stratospheric Aerosol Intervention assessment. Oxford Open Climate Change. [Article](https://academic.oup.com/oocc/article/4/1/kgae010/770178)
 

@@ -22,9 +22,9 @@ I co-host the [Solar Climate Intervention Virtual Symposia](https://sites.google
 
 # Selected Publications
 
-**Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Paper](https://acp.copernicus.org/articles/23/13369/2023/), [15 min talk](https://www.youtube.com/watch?v=RpxDpHDqEDI), [Old 30 min talk](https://www.youtube.com/watch?v=NKqp58g3EPw).
+Jordan, G. and **M. Henry** : IMO2020 Regulations Accelerate Global Warming by up to 3 Years in UKESM1. [Paper](http://dx.doi.org/10.1029/2024EF005011)
 
-**Henry, M.** and G.K. Vallis: Different Pathways to an Early Eocene Climate. Paleoceanography and Paleoclimatology, 2022. [Paper (open access)](https://doi.org/10.1029/2021PA004375)
+**Henry, M.**, J. Haywood, A. Jones, M. Dalvi, A. Wells, D. Visioni, E. Bednarz, D. MacMartin, W. Lee, M. Tye: Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy. [Paper](https://acp.copernicus.org/articles/23/13369/2023/), [15 min talk](https://www.youtube.com/watch?v=RpxDpHDqEDI), [Old 30 min talk](https://www.youtube.com/watch?v=NKqp58g3EPw).
 
 P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Langen, W. Liu, F. Pithan, S. Sejas, I. Tan: Process Drivers, Inter-model Spread, and the Path Forward: a Review of Amplified Arctic Warming. Frontiers in Earth Science. [Paper](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full)
 
@@ -40,6 +40,5 @@ P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Lan
 
 **Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Sea-Salt Injection to Cool the Arctic : an Earth System Model Comparison.
 
-Jordan, G. and **M. Henry** : IMO2020 Regulations Accelerate Global Warming by up to 3 Years in UKESM1. [Accepted preprint](https://essopenarchive.org/doi/full/10.22541/essoar.172046812.23872610).
 <br/>
 
