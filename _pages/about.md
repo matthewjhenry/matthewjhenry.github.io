@@ -14,7 +14,9 @@ My research is currently mainly focused on understanding the potential risks and
 
 I have also done work on the polar amplification of warming ([review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1)) and understanding past warm climates such as the Eocene ([paper 1](https://doi.org/10.1175/JCLI-D-21-0131.1) and [paper 2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021PA004375)).
 
-I co-host the [Solar Climate Intervention Virtual Symposia](https://sites.google.com/view/solargeo-symposium/home). If you want to present your SRM research, please get in touch!
+I co-host the [Solar Climate Intervention Virtual Symposia](https://sites.google.com/view/solargeo-symposium/home). If you want to present your SRM research, please get in touch.
+
+I am also happy to discuss collaborations (academic, outreach, or otherwise), don't hesitate to reach out.
 
 <br/>
 
