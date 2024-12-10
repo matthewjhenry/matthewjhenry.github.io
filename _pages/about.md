@@ -22,7 +22,7 @@ I am also happy to discuss collaborations (academic, outreach, or otherwise), do
 
 # Selected Publications
 
-**Henry, M.**, E. Bednarz, and J. Haywood : How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1? [10-min presentation](https://youtu.be/_wlVsE3XQLE) and [Accepted pre-print](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1565/).
+**Henry, M.**, E. Bednarz, and J. Haywood : How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1? [Paper](https://acp.copernicus.org/articles/24/13253/2024/) and [10-min presentation](https://youtu.be/_wlVsE3XQLE).
 
 Jordan, G. and **M. Henry** : IMO2020 Regulations Accelerate Global Warming by up to 3 Years in UKESM1. [Paper](http://dx.doi.org/10.1029/2024EF005011)
 
