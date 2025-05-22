@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Marine Cloud Brightening to Cool the Arctic : an Earth System Model Comparison. [Pre-print](https://essopenarchive.org/doi/full/10.22541/essoar.174690860.07133973/v1)
+
 **Henry, M.**, E. Bednarz, and J. Haywood : How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1? [10-min presentation](https://youtu.be/_wlVsE3XQLE) and [pre-print](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1565/).
 
 Jordan, G. and **M. Henry** : IMO2020 Regulations Accelerate Global Warming by up to 3 Years in UKESM1. [Paper](http://dx.doi.org/10.1029/2024EF005011)

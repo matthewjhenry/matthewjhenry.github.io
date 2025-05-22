@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Research Fellow at the University of Exeter, working with [Prof. Jim Haywood](https://mathematics.exeter.ac.uk/staff/jmh232?sm=jmh232). You can view my CV [here](https://docs.google.com/document/d/1IBtOTVfRRxr8NlmzCb0XxlWBgMeS2nTuEs3m1GDZ6OQ/edit?usp=sharing).
+Senior Research Fellow at the University of Exeter, working with [Prof. Jim Haywood](https://mathematics.exeter.ac.uk/staff/jmh232?sm=jmh232). You can view my CV [here](https://docs.google.com/document/d/1IBtOTVfRRxr8NlmzCb0XxlWBgMeS2nTuEs3m1GDZ6OQ/edit?usp=sharing).
 
 My research is currently mainly focused on understanding the potential risks and benefits of Sunlight Reflection Methods (SRM). 
 
@@ -34,9 +34,9 @@ P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Lan
 
 <br/>
 
-# Work in progress
+# Pre-prints
 
-**Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Sea-Salt Injection to Cool the Arctic : an Earth System Model Comparison.
+**Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Marine Cloud Brightening to Cool the Arctic : an Earth System Model Comparison. [Pre-print](https://essopenarchive.org/doi/full/10.22541/essoar.174690860.07133973/v1)
 
 <br/>
 
