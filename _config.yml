@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Matthew Henry"
 title_separator          : "-"
 name                     : &name "Matthew Henry"
-description              : &description "Postdoctoral Research Fellow"
+description              : &description "Senior Research Fellow"
 url                      : https://matthewjhenry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matthewjhenry/matthewjhenry.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Matthew Henry"
   avatar           : "me2.jpg"
-  bio              : "Postdoctoral Research Fellow working on solar geoengineering at the University of Exeter."
+  bio              : "Senior Research Fellow working on solar geoengineering at the University of Exeter."
   location         : "Leeds & Exeter, UK"
   employer         :
   pubmed           : 
