@@ -5,7 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Marine Cloud Brightening to Cool the Arctic : an Earth System Model Comparison. [Pre-print](https://essopenarchive.org/doi/full/10.22541/essoar.174690860.07133973/v1)
+**Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Marine Cloud Brightening to Cool the Arctic : an Earth System Model Comparison. [Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF006508) and [summary](https://www.linkedin.com/feed/update/urn:li:activity:7404865462452527104/).
+
+Hirasawa, H., **Henry, M.**, Mason, A.M., Rasch, P.J., Doherty, S.J., Wood, R., Haywood, J. and von Salzen, K., 2025. Forcing Susceptibility and Climate Sensitivity to Midlatitude Marine Cloud Brightening. Journal of Climate, p.e250337. [Paper](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0337.1/JCLI-D-25-0337.1.xml)
+
+**Henry, M.** and Duffey, A., 2025. Commentary:" Safeguarding the polar regions from dangerous geoengineering: a critical assessment of proposed concepts and future prospects". Frontiers in Earth Science, 13, p.1709127. [Paper](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2025.1709127/full)
+
+Duffey, A., **Henry, M.**, Smith, W., Tsamados, M. and Irvine, P.J., 2025. Low‐altitude high‐latitude stratospheric aerosol injection is feasible with existing aircraft. Earth's Future, 13(4), p.e2024EF005567. [Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024EF005567)
 
 **Henry, M.**, E. Bednarz, and J. Haywood : How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1? [10-min presentation](https://youtu.be/_wlVsE3XQLE) and [pre-print](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1565/).
 

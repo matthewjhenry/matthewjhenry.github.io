@@ -14,13 +14,15 @@ My research is currently mainly focused on understanding the potential risks and
 
 I have also done work on the polar amplification of warming ([review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1)) and understanding past warm climates such as the Eocene ([paper 1](https://doi.org/10.1175/JCLI-D-21-0131.1) and [paper 2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021PA004375)).
 
-I co-host the [Solar Climate Intervention Virtual Symposia](https://sites.google.com/view/solargeo-symposium/home). If you want to present your SRM research, please get in touch.
+I co-host the [Climate Intervention Virtual Symposia](https://sites.google.com/view/solargeo-symposium/home). If you want to present your SRM research, please get in touch.
 
 I am also happy to discuss collaborations (academic, outreach, or otherwise), don't hesitate to reach out.
 
 <br/>
 
 # Selected Publications
+
+**Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Marine Cloud Brightening to Cool the Arctic : an Earth System Model Comparison. [Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF006508) and [summary](https://www.linkedin.com/feed/update/urn:li:activity:7404865462452527104/).
 
 **Henry, M.**, E. Bednarz, and J. Haywood : How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1? [Paper](https://acp.copernicus.org/articles/24/13253/2024/) and [10-min presentation](https://youtu.be/_wlVsE3XQLE).
 
@@ -31,12 +33,6 @@ Jordan, G. and **M. Henry** : IMO2020 Regulations Accelerate Global Warming by u
 P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Langen, W. Liu, F. Pithan, S. Sejas, I. Tan: Process Drivers, Inter-model Spread, and the Path Forward: a Review of Amplified Arctic Warming. Frontiers in Earth Science. [Paper](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) [Carbon Brief guest post](https://www.carbonbrief.org/guest-post-why-does-the-arctic-warm-faster-than-the-rest-of-the-planet)
 
 **Henry, M.** and T.M. Merlis: Lapse rate changes dominate residual polar warming in solar radiation management experiments. Geophysical Research Letters, 2020. [Paper](https://doi.org/10.1029/2020GL087929) and <a href='https://www.youtube.com/watch?v=SnsH-4Nca9A'>AOFD talk recording</a>.
-
-<br/>
-
-# Pre-prints
-
-**Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Marine Cloud Brightening to Cool the Arctic : an Earth System Model Comparison. [Pre-print](https://essopenarchive.org/doi/full/10.22541/essoar.174690860.07133973/v1)
 
 <br/>
 
