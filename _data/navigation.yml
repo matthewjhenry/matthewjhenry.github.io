@@ -6,9 +6,3 @@ main:
 
   - title: "Posts"
     url: /year-archive/
-
-  - title: "News"
-    url: /news/
-
-  - title: "Other"
-    url: /other/
