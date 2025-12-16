@@ -24,6 +24,8 @@ I am also happy to discuss collaborations (academic, outreach, or otherwise), do
 
 **Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Marine Cloud Brightening to Cool the Arctic : an Earth System Model Comparison. [Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF006508) and [summary](https://www.linkedin.com/feed/update/urn:li:activity:7404865462452527104/).
 
+**Henry, M.** and Duffey, A., 2025. Commentary:" Safeguarding the polar regions from dangerous geoengineering: a critical assessment of proposed concepts and future prospects". Frontiers in Earth Science, 13, p.1709127. [Paper](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2025.1709127/full)
+
 **Henry, M.**, E. Bednarz, and J. Haywood : How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1? [Paper](https://acp.copernicus.org/articles/24/13253/2024/) and [10-min presentation](https://youtu.be/_wlVsE3XQLE).
 
 Jordan, G. and **M. Henry** : IMO2020 Regulations Accelerate Global Warming by up to 3 Years in UKESM1. [Paper](http://dx.doi.org/10.1029/2024EF005011)
