@@ -36,3 +36,14 @@ P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Lan
 
 <br/>
 
+# Others
+
+"Solar Radiation Modification : Policy Briefing". Royal Society. 2025. Member of the Working Group. [Royal Society](https://royalsociety.org/news-resources/projects/solar-radiation-modification/)
+
+Guardian letter defending the need for climate intervention research ("Climate research into cloud barriers or Arctic refreezing is worth funding", not my choice of title). 2025. [Letter](https://www.theguardian.com/environment/2025/mar/14/climate-research-into-cloud-barriers-or-arctic-refreezing-is-worth-funding).
+
+"Comment modelise-t-on le voile solaire?". Interview by Remi Noyon for [his 420ppm substack](https://420ppm.substack.com/p/comment-modelise-t-on-le-voile-solaire).
+
+"Sulfates : la baisse des emissions a accelere de 2 a 3 fois le rechauffement climatique". Radio France Culture show on [our IMO2020 paper](http://dx.doi.org/10.1029/2024EF005011). [Recording](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/sulfates-la-baisse-des-emissions-a-accelere-de-2-a-3-ans-le-rechauffement-climatique-6131009).
+
+"Guest post : Why does the Arctic warm faster than the rest of the planet?". [Carbon Brief](https://www.carbonbrief.org/guest-post-why-does-the-arctic-warm-faster-than-the-rest-of-the-planet/)
