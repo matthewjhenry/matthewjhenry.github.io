@@ -40,6 +40,8 @@ P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Lan
 
 # Others
 
+Funding by [Reflective](https://www.reflective.org/) for a 10-month project on 'The Effect of Stratospheric Aerosol Injection on North Atlantic Subpolar Gyre Tipping' in collaboration with Prof. Claudia E. Wieners & Dr. Swinda K.J. Falkena from Utrecht University. See list of funded projects [here](https://reflectiveclimate.substack.com/p/award-announcement-effects-of-sai).
+
 "Solar Radiation Modification : Policy Briefing". Royal Society. 2025. Member of the Working Group. [Royal Society](https://royalsociety.org/news-resources/projects/solar-radiation-modification/)
 
 Guardian letter defending the need for climate intervention research ("Climate research into cloud barriers or Arctic refreezing is worth funding", not my choice of title). 2025. [Letter](https://www.theguardian.com/environment/2025/mar/14/climate-research-into-cloud-barriers-or-arctic-refreezing-is-worth-funding).
