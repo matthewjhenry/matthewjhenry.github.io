@@ -4,8 +4,7 @@ date: 2026-07-15
 permalink: /posts/2026/07/monsoons/
 ---
 
-*Stratospheric aerosol injection in one hemisphere only or at the equator would have detrimental impacts on tropical precipitation. 
-Climate models also suggest that equal injection of aerosols in both hemispheres away from the tropics reduces the risk of tropical precipitation changes.*
+*Climate models show that stratospheric aerosol injection in one hemisphere only or at the equator would have detrimental impacts on tropical precipitation. However, those detrimental impacts disappear in climate models with equal injection of aerosols in both hemispheres away from the tropics.*
 
 ### What are monsoons?
 
@@ -86,6 +85,5 @@ of precipitation change (third column). It's also important to note that these m
 ### Conclusions
 
 Understanding regional precipitation changes remains a crucial step for any rigorous assessment of the climate impacts of stratospheric aerosol injection. It is clear that 
-injection of sulfur dioxide in one hemisphere only or at the equator would have detrimental impacts on tropical precipitation. And climate models suggest that equal injection 
-of aerosols in both hemispheres away from the tropics reduces the risk of tropical precipitation changes. Models could still be wrong and uncertainties are large, but they don't 
+injection of sulfur dioxide in one hemisphere only or at the equator would have detrimental impacts on tropical precipitation. However, those detrimental impacts disappear in climate models with equal injection of aerosols in both hemispheres away from the tropics. Models could still be wrong and uncertainties are large, but they don't 
 show that well-designed SAI systematically disrupts the monsoon.
