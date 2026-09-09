@@ -14,13 +14,15 @@ My research is currently mainly focused on understanding the potential risks and
 
 I have also done work on the polar amplification of warming ([review](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/full) and [paper](https://doi.org/10.1175/JCLI-D-20-0178.1)) and understanding past warm climates such as the Eocene ([paper 1](https://doi.org/10.1175/JCLI-D-21-0131.1) and [paper 2](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021PA004375)).
 
-I co-host the [Climate Intervention Virtual Symposia](https://sites.google.com/view/solargeo-symposium/home). If you want to present your SRM research, please get in touch.
+I am co-chair of the [Geoengineering Model Intercomparison Project](https://climate.envsci.rutgers.edu/geomip/). Some of the UK Earth System Model GeoMIP data is available [here](https://gws-access.jasmin.ac.uk/public/macloud/).
 
 I am also happy to discuss collaborations (academic, outreach, or otherwise), don't hesitate to reach out.
 
 <br/>
 
 # Selected Publications
+
+Visioni, D., Robock, A., Duffey, A., **Henry, M.**, Hirasawa, H., Lee, W.R., Wang, C., Roberts, K., Watanabe, S., Reboita, M.S. and Sugiyama, M., 2026. The Geoengineering Model Intercomparison Project (GeoMIP) contribution to CMIP7–description of new experimental protocols and preliminary results. EGUsphere, 2026, pp.1-47.
 
 **Henry, M.**, H. Hirasawa, J. Haywood, and P. Rasch : Marine Cloud Brightening to Cool the Arctic : an Earth System Model Comparison. [Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF006508) and [summary](https://www.linkedin.com/feed/update/urn:li:activity:7404865462452527104/).
 
