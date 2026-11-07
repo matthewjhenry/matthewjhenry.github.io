@@ -42,7 +42,9 @@ P.C. Taylor, R.C. Boeke, L.N. Boisvert, N. Feldl, **M. Henry**, Y. Huang, P. Lan
 
 # Others
 
-Funding by [Reflective](https://www.reflective.org/) for a 10-month project on 'The Effect of Stratospheric Aerosol Injection on North Atlantic Subpolar Gyre Tipping' in collaboration with Prof. Claudia E. Wieners & Dr. Swinda K.J. Falkena from Utrecht University. See list of funded projects [here](https://reflectiveclimate.substack.com/p/award-announcement-effects-of-sai).
+"Marine Cloud Brightening: from Shipping Emissions to Climate Intervention" [talk](https://www.youtube.com/watch?v=IFuUkDHalvU) at the Cambridge Center for Climate Repair, 4 November 2026.
+
+Funding by [Reflective](https://www.reflective.org/) for a 10-month project on 'The Effect of Stratospheric Aerosol Injection on North Atlantic Subpolar Gyre Tipping' in collaboration with Prof. Claudia E. Wieners & Dr. Swinda K.J. Falkena from Utrecht University, and executed by Josh Smith from the University of Exeter. See list of funded projects [here](https://reflectiveclimate.substack.com/p/award-announcement-effects-of-sai).
 
 "Solar Radiation Modification : Policy Briefing". Royal Society. 2025. Member of the Working Group. [Royal Society](https://royalsociety.org/news-resources/projects/solar-radiation-modification/)
 
